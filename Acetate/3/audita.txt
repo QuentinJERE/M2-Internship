@@ -1,0 +1,23 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= rmnbio
+$$ /mnt/disk1/data/rmnbio/nmr/DB_pH7_4/300/audita.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-05-05 11:46:20.020 +0200>,<rmnbio>,<rmn-500>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2021-05-05 11:43:22.407 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       80 B6 E2 BB 80 55 EA 2C AC 48 7C 76 4E E3 05 2D
+       data hash MD5: 64K
+       FA CD 0C 10 81 02 6F AD BE 9F F0 10 C8 94 B8 8F>)
+(   2,<2021-05-05 11:46:28.066 +0200>,<rmnbio>,<rmn-500>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: rmnbio
+       data hash MD5: 64K
+       FA CD 0C 10 81 02 6F AD BE 9F F0 10 C8 94 B8 8F>)
+##END=
+
+$$ hash MD5
+$$ 61 FF A0 87 3F 8B 37 53 64 F2 91 0B 41 9E 9C F9

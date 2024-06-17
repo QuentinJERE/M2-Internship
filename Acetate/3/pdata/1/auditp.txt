@@ -1,0 +1,47 @@
+##TITLE= Audit trail, TOPSPIN		Version 3.2
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= SPCMIB
+$$ Z:\TopSpin\data\MetabDB\nmr/DB_pH7_4/300/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-05-05 11:46:20.020 +0200>,<rmnbio>,<rmn-500>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2021-05-05 11:43:22.407 +0200,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       80 B6 E2 BB 80 55 EA 2C AC 48 7C 76 4E E3 05 2D
+       data hash MD5: 64K
+       FA CD 0C 10 81 02 6F AD BE 9F F0 10 C8 94 B8 8F>)
+(   2,<2021-05-05 11:46:28.066 +0200>,<rmnbio>,<rmn-500>,<audit>,<TOPSPIN 2.1>,
+      <user comment:
+       ICON-NMR User ID: rmnbio
+       data hash MD5: 64K
+       FA CD 0C 10 81 02 6F AD BE 9F F0 10 C8 94 B8 8F>)
+(   3,<2021-05-07 13:56:59.920 +0200>,<SPCMIB>,<IMRCP252>,<proc1d>,<TOPSPIN 3.2>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = -124.1778 PHC1 = -12.47117 SI = 128K 
+       data hash MD5: 128K
+       B8 28 AD E1 98 91 01 C6 D2 99 C7 F5 AF 3A 2B 4E>)
+(   4,<2021-05-07 13:57:00.336 +0200>,<SPCMIB>,<IMRCP252>,<proc1d>,<TOPSPIN 3.2>,
+      <apks 
+       data hash MD5: 128K
+       49 BE 19 CC 27 2E 04 06 DF 5A D2 6D B6 17 E4 11>)
+$$ //SPCMIB115/exp_rmnbio/TopSpin/data/MetabDB/nmr/DB_pH7_4/300/pdata/1/auditp.txt
+(   5,<2021-05-07 14:06:00.147 +0200>,<LABOIMRCP\ghafari>,<freeuse-3018c>,<proc1d>,<TopSpin 4.1.0>,
+      <CAT service failure
+       pk fgphup PHC0 = 8.125 PHC1 = 0 
+       data hash MD5: 128K
+       AC 31 62 A5 96 EA 58 6E 83 77 43 6E 95 A5 6E D1>)
+(   6,<2021-05-19 16:33:23.840 +0200>,<SPCMIB>,<IMRCP252>,<proc1d>,<TOPSPIN 3.2>,
+      <pk fgphup PHC0 = -50.80493 PHC1 = 62.2 
+       data hash MD5: 128K
+       1C 87 06 04 96 E3 BC B4 58 9C D3 F1 D2 06 5A 57>)
+$$ //Spcmib115/exp_rmnbio/DATA/TOPSPIN_BASE_DE_DONNEE_PH7/3/pdata/1/auditp.txt
+(   7,<2024-02-14 18:29:55.842 +0100>,<LABOIMRCP\balayssac>,<imrcp253>,<proc1d>,<TopSpin 4.0.8>,
+      <abs ABSG = 5 
+       data hash MD5: 128K
+       D5 69 0F 83 D2 82 F7 E9 FF 92 BF A3 24 64 BF E8>)
+##END=
+
+$$ hash MD5
+$$ EA 6D 90 FD E7 E5 79 8F B9 6B 4F 29 C9 5D 99 A2

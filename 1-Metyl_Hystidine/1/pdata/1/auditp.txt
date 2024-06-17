@@ -1,0 +1,27 @@
+##TITLE= Audit trail, TOPSPIN		Version 2.1
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= rmnbio
+$$ /opt/topspin2.1/data/rmnbio/nmr/Plasma_BBI_spikage/35/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2010-04-14 14:58:55.819 +0200>,<rmnbio>,<rmn-400>,<go>,<TOPSPIN 2.1>,
+      <created by zg
+	started at 2010-04-14 14:57:55.313 +0200,
+	POWCHK disabled, PULCHK disabled,
+       configuration hash MD5:
+       E6 5A BA AD 66 E3 21 A6 B9 3A 03 57 58 30 8E 28
+       data hash MD5: 32K
+       9E 22 E2 CD 3A C9 EA AC FF 55 CC 08 3C 81 B4 2D>)
+(   2,<2010-04-14 14:59:01.841 +0200>,<rmnbio>,<rmn-400>,<proc1d>,<TOPSPIN 2.1>,
+      <Start of raw data processing
+       efp LB = 0.3 FT_mod = 6 PKNL = 1 PHC0 = 408.182 PHC1 = -11.4526 SI = 64K 
+       data hash MD5: 64K
+       79 E4 80 98 27 71 52 6E CE 6C BC 9F 0A 26 22 41>)
+(   3,<2010-04-14 15:01:22.613 +0200>,<rmnbio>,<rmn-400>,<proc1d>,<TOPSPIN 2.1>,
+      <pk fgphup PHC0 = -3.0522 PHC1 = -0.6 
+       data hash MD5: 64K
+       3E 2F 20 B6 B5 E4 C0 EB 29 B2 D0 FD 19 76 F0 11>)
+##END=
+
+$$ hash MD5
+$$ 21 4A A3 89 28 9D 03 CC 21 69 33 18 DB 32 7F D0
